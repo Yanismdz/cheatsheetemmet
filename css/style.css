@@ -10,9 +10,9 @@ td
     width:50%;
 }
 
-@media scree and (max-width:400px)
+@media screen and (max-width:400px)
 {
-    .display-3
+    h1, .display-3
     {
 	font-size:4.1rem;
     }
