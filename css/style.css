@@ -1,4 +1,11 @@
-#logo
+th
 {
-    height:100%;
+    display:inline-block;
+    width:50%;
+}
+
+td
+{
+    display:inline-block;
+    width:50%;
 }
